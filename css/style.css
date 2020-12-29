@@ -103,7 +103,7 @@
 }
 .brazuca h3{
     margin-top: -12px;
-    color: black;
+    color: white;
     background: #014eff;
     font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
@@ -116,7 +116,7 @@
     display: block;
     width: 60px;
     height: 3px;
-    background: black;
+    background: white;
     margin: 6px auto;
 }
 .brazuca p{
@@ -124,7 +124,7 @@
     font-size: 18px;
     margin-left: 20px;
     width: 250px;
-    color: black; 
+    color: white; 
     top: -90px;
 }
 .brazuca img{
@@ -401,14 +401,18 @@
 .contato p{
     line-height: 25px;
 }
+.redes_socias img{
+    height: 30px;
+}
 .redes_socias ul li{
     display: inline-block;
     margin-right: 10px;
+
 }
 .redes_socias ul li a{
     border: 3px solid #014eff;
     display: block;
-    padding: 10px;
+    padding: 10px 8px;
 }
 .redes_socias ul li a:hover{
     border-color: white;
